@@ -1,6 +1,6 @@
 # Faster Whisper Benchmark Tool
 
-A robust benchmarking tool for evaluating the performance of Whisper models using the [faster-whisper](https://github.com/guillaumekln/faster-whisper) library. With this script, you can easily evaluate CPU and GPU inference performance across multiple audio files.
+A benchmarking tool for evaluating the performance of Whisper models using the [faster-whisper](https://github.com/guillaumekln/faster-whisper) library. With this script, you can easily evaluate CPU and GPU inference performance across multiple audio files.
 
 ---
 
